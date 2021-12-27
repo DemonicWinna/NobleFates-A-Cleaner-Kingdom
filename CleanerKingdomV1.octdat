@@ -1,0 +1,73 @@
+{
+	id Oct.Debris.Emitters.Base
+	type BlobDebrisEmitterType
+	volumeMin = 0
+	volumeMax = 0
+	emitPerTick = 0
+	range = 0
+	airTimeMin = 0
+	airTimeMax = 0
+    range = 0
+}
+//Refuse
+{
+	id Oct.Debris.Emitters.Broken
+	type BlobDebrisEmitterType
+	name = Broken
+	tickPerSecondStart = 0
+	tickPerSecondEnd = 0
+	emitPerTick = 0
+	lifetime = 0
+	burstMin = 0
+	burstMax = 0
+	volumeMin = 0
+	volumeMax = 0
+	debrisType = Debris
+    range = 0
+}
+{
+	id Oct.Debris.Emitters.Work
+	type BlobDebrisEmitterType
+	name = Work
+	tickPerSecondStart = 0
+	tickPerSecondEnd = 0
+	emitPerTick = 0
+	lifetime = 0
+	burstMin = 0
+	burstMax = 0
+	volumeMin = 0
+	volumeMax = 0
+	debrisType = Debris
+    range = 0
+}
+//Scat
+{
+	id Oct.Debris.Emitters.Scat
+	type BlobDebrisEmitterType
+	name = Scat
+	tickPerSecondStart = 0
+	tickPerSecondEnd = 0
+	emitPerTick = 0
+	lifetime = 0
+	burstMin = 0
+	burstMax = 0
+	volumeMin = 0
+	volumeMax = 0
+	airTimeMin = 0
+	airTimeMax = 0
+	debrisType = Scat
+    range = 0
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
